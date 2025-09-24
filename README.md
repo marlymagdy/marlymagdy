@@ -1,33 +1,33 @@
-<h1 align="center">Hi 👋, I'm Marly</h1>
-<h2 align="center">🎓 2025 Data Science Graduate</h2>
+<h1 align="center"><span style="color:#ff79c6;">Hi 👋, I'm Marly</span></h1>
+<h2 align="center"><span style="color:#f1fa8c;">🎓 2025 Data Science Graduate</span></h2>
+
+<p align="center">
+<span style="color:#f1fa8c;">🎓 I’m a 2025 Data Science Graduate from the Faculty of Computers and Data Science, Alexandria University.</span><br>
+<span style="color:#ff79c6;">💡 Passionate about data analysis, machine learning, and intelligent solutions that transform raw data into meaningful insights.</span><br>
+<span style="color:#f1fa8c;">📊 With a strong foundation in statistics, I tackle real-world challenges using machine learning models, data analysis, and data visualization with Python, Power BI, Tableau, and R.</span>
+</p>
 
 ---
 
-🎓 I’m a **2025 Data Science Graduate** from the Faculty of Computers and Data Science, Alexandria University.  
-💡 Passionate about **data analysis, machine learning, and intelligent solutions** that transform raw data into meaningful insights.  
-📊 With a strong foundation in **statistics**, I enjoy tackling real-world challenges through **machine learning models, data analysis, and data visualization** using modern tools like Python, Power BI, Tableau, and R.  
+<h3 style="color:#ff79c6;">🔍 About Me</h3>
+- 📈 <span style="color:#f1fa8c;">Exploring data to uncover patterns that drive smart decision-making</span>  
+- 🤖 <span style="color:#ff79c6;">Completed projects in machine learning, deep learning, and data visualization</span>  
+- 🛠️ <span style="color:#f1fa8c;">Skilled in Python, R, SQL, Power BI, Tableau, TensorFlow, Scikit-learn, Pandas, NumPy</span>  
+- 🎥 <span style="color:#ff79c6;">Passionate about video editing & digital content creation, combining creativity with data storytelling</span>  
+- 🌱 <span style="color:#f1fa8c;">Always eager to learn new tools, technologies, and real-world applications</span>  
 
 ---
 
-## 🔍 About Me
-- 📈 Exploring data to uncover patterns that drive smart decision-making  
-- 🤖 Completed projects in **machine learning, deep learning, and data visualization**  
-- 🛠️ Skilled in **Python, R, SQL, Power BI, Tableau, TensorFlow, Scikit-learn, Pandas, NumPy**  
-- 🎥 Passionate about **video editing & digital content creation**, combining creativity with data storytelling  
-- 🌱 Always eager to **learn new tools, technologies, and real-world applications**  
-
----
-
-## 🔗 Connect with Me
+<h3 style="color:#ff79c6;">🔗 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/marly-magdy-b80a24277" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🛠 Languages and Tools
+<h3 style="color:#ff79c6;">🛠 Languages and Tools</h3>
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -66,12 +66,12 @@
 
 ---
 
-## 🚀 Projects You’ll Find Here
-- Machine Learning and Deep Learning models  
-- Data Analysis case studies  
-- Power BI & Tableau dashboards  
+<h3 style="color:#ff79c6;">🚀 Projects You’ll Find Here</h3>
+- <span style="color:#f1fa8c;">Machine Learning and Deep Learning models</span>  
+- <span style="color:#ff79c6;">Data Analysis case studies</span>  
+- <span style="color:#f1fa8c;">Power BI & Tableau dashboards</span>  
 
 ---
 
-## 🏆 Total Commits
+<h3 style="color:#ff79c6;">🏆 Total Commits</h3>
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=marlymagdy&show_icons=false&count_private=true&include_all_commits=true&hide=stars,followers,prs,issues&title_color=ff79c6&icon_color=50fa7b&text_color=f1fa8c&bg_color=282a36)
