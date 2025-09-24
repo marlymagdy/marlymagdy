@@ -4,6 +4,7 @@
 🎓 I’m a **2025 Data Science Graduate** from the Faculty of Computers and Data Science, Alexandria University.  
 💡 I’m passionate about **data analytics, machine learning, and intelligent solutions** that transform raw data into meaningful insights.  
 📊 With a strong foundation in **statistics**, I enjoy tackling real-world challenges through **machine and deep learning models, data analytics, and data visualization** 
+
 ---
 
 ### 🔍 About Me
