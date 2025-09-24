@@ -73,12 +73,13 @@
 
 ---
 
+### 🏆 Total Commits
+![Total Commits](https://github-readme-stats.vercel.app/api?username=marlymagdy&show_icons=false&count_private=true&include_all_commits=true&hide=stars,followers,prs,issues&title_color=ff79c6&icon_color=50fa7b&text_color=f1fa8c&bg_color=282a36)
+
+---
+
 ### 🚀 Projects You’ll Find Here
 - Machine Learning and Deep Learning models  
 - Data Analysis case studies  
 - Power BI & Tableau dashboards  
 
----
-
-### 🏆 Total Commits
-![Total Commits](https://github-readme-stats.vercel.app/api?username=marlymagdy&show_icons=false&count_private=true&include_all_commits=true&hide=stars,followers,prs,issues&title_color=ff79c6&icon_color=50fa7b&text_color=f1fa8c&bg_color=282a36)
