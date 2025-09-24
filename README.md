@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Marly</h1>
-<h3 align="center">🎓 2025 Data Science Graduate</h3>
-
+<!-- <h1 align="center">Hi 👋, I'm Marly</h1>
+<h3 align="center">🎓 2025 Data Science Graduate</h3>-->
+<h1 align="center"><span style="color:#ff79c6;">Hi 👋, I'm Marly</span></h1>
+<h2 align="center"><span style="color:#f1fa8c;">🎓 2025 Data Science Graduate</span></h2>
 🎓 I’m a **2025 Data Science Graduate** from the Faculty of Computers and Data Science, Alexandria University.  
 💡 I’m passionate about **data analysis, machine learning, and intelligent solutions** that transform raw data into meaningful insights.  
 📊 With a strong foundation in **statistics**, I enjoy tackling real-world challenges through **machine learning models, data analysis, and data visualization** using modern tools like Python, Power BI, and Tableau.  
