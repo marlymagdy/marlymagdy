@@ -9,8 +9,7 @@
 
 ### 🔍 About Me
 - 📈 Love exploring data and uncovering patterns that drive smart decision-making  
-- 🤖 Completed projects in **machine learning, deep learning, and data visualization**  
-- 🛠️ Skilled in **Python, SQL, Power BI, Tableau, TensorFlow, Scikit-learn, Pandas, NumPy**  
+- 🤖 Completed projects in **machine learning, deep learning, and data analytics**  
 - 🎥 Passionate about **video editing & digital content creation**, combining creativity with data storytelling  
 - 🌱 Always eager to **learn new tools, technologies, and real-world applications**  
 
