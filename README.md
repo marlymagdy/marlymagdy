@@ -81,4 +81,4 @@
 ---
 
 ### 📈 GitHub Contributions
-![Marly's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=marlymagdy&theme=react-dark&area=true)
+![Marly's GitHub Contributions](https://github.com/marlymagdy.png?tab=overview&from=2025-01-01&to=2025-12-31)
