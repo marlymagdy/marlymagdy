@@ -80,5 +80,6 @@
 
 ---
 
-### 📈 GitHub Contributions
-![Marly's GitHub Contributions](https://github.com/marlymagdy.png?tab=overview&from=2025-01-01&to=2025-12-31)
+### 📊 GitHub Stats
+![Marly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marlymagdy&show_icons=true&count_private=true&include_all_commits=true&theme=react)
+
