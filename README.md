@@ -7,7 +7,7 @@
 
 ---
 
-<h2 style="color:#ff79c6;">🔍 About Me</h2>
+### 🔍 About Me
 - 📈 Love exploring data and uncovering patterns that drive smart decision-making  
 - 🤖 Completed projects in **machine learning, deep learning, and data visualization**  
 - 🛠️ Skilled in **Python, SQL, Power BI, Tableau, TensorFlow, Scikit-learn, Pandas, NumPy**  
@@ -16,7 +16,7 @@
 
 ---
 
-<h2 style="color:#ff79c6;">🔗 Connect with me</h2>
+### 🔗 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/marly-magdy-b80a24277" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -25,7 +25,7 @@
 
 ---
 
-<h2 style="color:#ff79c6;">🛠 Languages and Tools</h2>
+### 🛠 Languages and Tools
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -73,12 +73,12 @@
 
 ---
 
-<h2 style="color:#ff79c6;">🚀 Projects You’ll Find Here</h2>
+### 🚀 Projects You’ll Find Here
 - Machine Learning and Deep Learning models  
 - Data Analysis case studies  
 - Power BI & Tableau dashboards  
 
 ---
 
-<h2 style="color:#ff79c6;">🏆 Total Commits</h2>
+### 🏆 Total Commits
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=marlymagdy&show_icons=false&count_private=true&include_all_commits=true&hide=stars,followers,prs,issues&title_color=ff79c6&icon_color=50fa7b&text_color=f1fa8c&bg_color=282a36)
