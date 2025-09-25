@@ -74,6 +74,8 @@
 
 ### 🏆 Total Commits
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=marlymagdy&show_icons=false&count_private=true&include_all_commits=true&hide=stars,followers,prs,issues&title_color=ff79c6&icon_color=50fa7b&text_color=f1fa8c&bg_color=282a36)
+![Marly's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlymagdy&include_all_commits=true&v=2)
+
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marlymagdy&layout=compact&title_color=ff79c6&icon_color=50fa7b&text_color=f1fa8c&bg_color=282a36)-->
 
 
